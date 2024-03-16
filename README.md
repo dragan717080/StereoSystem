@@ -1,6 +1,6 @@
 # <a name="no-link"></a>Stereo System App
 
-Backend for the Stereo System App using Laravel and Selenium for WebScrape. Database agnostic but I've used PostgreSQL.
+Backend for the Stereo System App using Laravel and Selenium for Web scrape. Database agnostic but I've used PostgreSQL.
 
 ## <a name="no-link"></a>Technologies Used
 
