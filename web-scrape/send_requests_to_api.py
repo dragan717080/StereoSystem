@@ -11,6 +11,8 @@ headers = {
     'Content-Type': 'application/json'
 }
 
+# To do: send POST requests to API to put products, brands etc. to Postgres
+
 def post_brands() -> None:
     brands = Utils.read_json_file('brands.json')
     response = requests.post(
