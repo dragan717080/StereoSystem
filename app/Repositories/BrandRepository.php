@@ -74,8 +74,8 @@ class BrandRepository
      * Create multiple brands.
      *
      * @param array $brandsData An array of brand data arrays, each containing 'name', 'country', and 'description' keys.
-     * @return string|Brand[] A string message if the creation fails, or an array of Brand objects if successful (ResponseBuilder class
-     * will return either HTTP 200 if it's successful, or 400 if return type of this class is string
+     * @return Brand[]|string A string message if the creation fails, or an array of Brand objects if successful.
+     * ResponseBuilder class will handle the HTTP response codes based on the return type.
      */
     public function createMany(array $brandsData): array|string
     {
