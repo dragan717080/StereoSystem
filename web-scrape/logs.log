@@ -1,0 +1,69 @@
+2024-03-11 01:52:04,442:WARNING:Element with class name 'nav-8' does not exist
+2024-03-11 01:52:04,458:WARNING:Element with class name 'nav-9' does not exist
+2024-03-11 01:52:04,485:WARNING:Element with class name 'nav-10' does not exist
+2024-03-11 01:52:04,604:WARNING:Element with class name 'nav-11' does not exist
+2024-03-11 01:52:04,621:WARNING:Element with class name 'nav-12' does not exist
+2024-03-11 01:52:04,640:WARNING:Element with class name 'nav-13' does not exist
+2024-03-11 01:52:04,677:WARNING:Element with class name 'nav-14' does not exist
+2024-03-11 01:54:23,742:WARNING:Element with class name 'nav-8' does not exist
+2024-03-11 01:54:23,830:WARNING:Element with class name 'nav-9' does not exist
+2024-03-11 01:54:23,845:WARNING:Element with class name 'nav-10' does not exist
+2024-03-11 01:54:23,857:WARNING:Element with class name 'nav-11' does not exist
+2024-03-11 01:54:23,892:WARNING:Element with class name 'nav-12' does not exist
+2024-03-11 01:54:23,906:WARNING:Element with class name 'nav-13' does not exist
+2024-03-11 01:54:23,923:WARNING:Element with class name 'nav-14' does not exist
+2024-03-11 01:54:45,440:WARNING:Element with class name 'nav-8' does not exist
+2024-03-11 01:54:46,891:WARNING:Element with class name 'nav-9' does not exist
+2024-03-11 01:54:47,246:WARNING:Element with class name 'nav-10' does not exist
+2024-03-11 01:54:47,569:WARNING:Element with class name 'nav-11' does not exist
+2024-03-11 01:54:47,590:WARNING:Element with class name 'nav-12' does not exist
+2024-03-11 01:54:47,853:WARNING:Element with class name 'nav-13' does not exist
+2024-03-11 01:54:47,892:WARNING:Element with class name 'nav-14' does not exist
+2024-03-11 01:54:53,118:INFO:Successfully written to 'brands.json' json file
+2024-03-11 01:54:53,120:INFO:Successfully written to 'categories.json' json file
+2024-03-11 01:54:53,120:INFO:Scraping main page completed
+2024-03-11 02:06:35,881:WARNING:Element with class name 'nav-8' does not exist
+2024-03-11 02:06:35,899:WARNING:Element with class name 'nav-9' does not exist
+2024-03-11 02:06:35,911:WARNING:Element with class name 'nav-10' does not exist
+2024-03-11 02:06:35,923:WARNING:Element with class name 'nav-11' does not exist
+2024-03-11 02:06:35,936:WARNING:Element with class name 'nav-12' does not exist
+2024-03-11 02:06:35,949:WARNING:Element with class name 'nav-13' does not exist
+2024-03-11 02:06:35,961:WARNING:Element with class name 'nav-14' does not exist
+2024-03-11 02:06:43,800:INFO:Successfully written to 'brands.json' json file
+2024-03-11 02:06:43,802:INFO:Successfully written to 'categories.json' json file
+2024-03-11 02:06:43,802:INFO:Scraping main page completed
+2024-03-11 02:15:47,606:WARNING:Element with class name 'nav-8' does not exist
+2024-03-11 02:15:47,631:WARNING:Element with class name 'nav-9' does not exist
+2024-03-11 02:15:47,644:WARNING:Element with class name 'nav-10' does not exist
+2024-03-11 02:15:47,657:WARNING:Element with class name 'nav-11' does not exist
+2024-03-11 02:15:47,682:WARNING:Element with class name 'nav-12' does not exist
+2024-03-11 02:15:47,770:WARNING:Element with class name 'nav-13' does not exist
+2024-03-11 02:15:47,809:WARNING:Element with class name 'nav-14' does not exist
+2024-03-11 02:15:52,859:INFO:Successfully written to 'brands.json' json file
+2024-03-11 02:15:52,860:INFO:Successfully written to 'categories.json' json file
+2024-03-11 02:15:52,860:INFO:Scraping main page completed
+2024-03-11 02:17:00,308:WARNING:Element with class name 'nav-8' does not exist
+2024-03-11 02:17:00,326:WARNING:Element with class name 'nav-9' does not exist
+2024-03-11 02:17:00,346:WARNING:Element with class name 'nav-10' does not exist
+2024-03-11 02:17:00,365:WARNING:Element with class name 'nav-11' does not exist
+2024-03-11 02:17:00,395:WARNING:Element with class name 'nav-12' does not exist
+2024-03-11 02:17:00,409:WARNING:Element with class name 'nav-13' does not exist
+2024-03-11 02:17:00,661:WARNING:Element with class name 'nav-14' does not exist
+2024-03-11 02:17:15,708:INFO:Successfully written to 'brands.json' json file
+2024-03-11 02:17:15,720:INFO:Successfully written to 'categories.json' json file
+2024-03-11 02:17:15,720:INFO:Scraping main page completed
+2024-03-11 02:18:39,825:WARNING:Element with class name 'nav-8' does not exist
+2024-03-11 02:18:39,999:WARNING:Element with class name 'nav-9' does not exist
+2024-03-11 02:18:40,021:WARNING:Element with class name 'nav-10' does not exist
+2024-03-11 02:18:40,049:WARNING:Element with class name 'nav-11' does not exist
+2024-03-11 02:18:40,073:WARNING:Element with class name 'nav-12' does not exist
+2024-03-11 02:18:40,087:WARNING:Element with class name 'nav-13' does not exist
+2024-03-11 02:18:40,100:WARNING:Element with class name 'nav-14' does not exist
+2024-03-11 02:18:50,376:INFO:Successfully written to 'brands.json' json file
+2024-03-11 02:18:50,379:INFO:Successfully written to 'categories.json' json file
+2024-03-11 02:18:50,379:INFO:Scraping main page completed
+2024-03-11 02:23:17,769:WARNING:Subcategory Miscellaneous with link https://www.richersounds.com/accessories/miscellaneous.html has no banner image
+2024-03-11 02:23:23,030:WARNING:Subcategory Accessories Clearance with link https://www.richersounds.com/clearance-bargains.html has no banner image
+2024-03-11 02:23:23,034:INFO:Successfully written to 'categories.json' json file
+2024-03-11 02:23:23,034:INFO:Scraping subcategory banner images completed
+2024-03-11 02:43:54,820:INFO:Successfully written to 'categories.json' json file

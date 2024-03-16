@@ -1,0 +1,572 @@
+[
+    {
+        "name": "AVIDHIFI",
+        "country": "United States",
+        "description": "Manufacturer of high-end audio equipment."
+    },
+    {
+        "name": "Acer",
+        "country": "Taiwan",
+        "description": "Multinational hardware and electronics corporation."
+    },
+    {
+        "name": "Anthem",
+        "country": "Canada",
+        "description": "Manufacturer of high-end audio/video equipment."
+    },
+    {
+        "name": "Apart",
+        "country": "Belgium",
+        "description": "Manufacturer of audio solutions for professional and residential applications."
+    },
+    {
+        "name": "Arcam",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-end audio and video equipment."
+    },
+    {
+        "name": "Astell&Kern",
+        "country": "South Korea",
+        "description": "Manufacturer of high-resolution audio players and accessories."
+    },
+    {
+        "name": "Audeze",
+        "country": "United States",
+        "description": "Manufacturer of high-end headphones and audio accessories."
+    },
+    {
+        "name": "AudioQuest",
+        "country": "United States",
+        "description": "Manufacturer of audio cables, digital-to-analog converters, and accessories."
+    },
+    {
+        "name": "Audiolab",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-performance audio equipment."
+    },
+    {
+        "name": "Austrian Audio",
+        "country": "Austria",
+        "description": "Manufacturer of professional audio equipment."
+    },
+    {
+        "name": "BDI",
+        "country": "United States",
+        "description": "Designer and manufacturer of home entertainment furniture."
+    },
+    {
+        "name": "BenQ",
+        "country": "Taiwan",
+        "description": "Manufacturer of consumer electronics, computing, and communications devices."
+    },
+    {
+        "name": "Biamp",
+        "country": "United States",
+        "description": "Provider of audio and video solutions for commercial applications."
+    },
+    {
+        "name": "Bluesound",
+        "country": "Canada",
+        "description": "Manufacturer of wireless multi-room music systems."
+    },
+    {
+        "name": "Bluestream",
+        "country": "United Kingdom",
+        "description": "Manufacturer of AV signal distribution and control solutions."
+    },
+    {
+        "name": "Bowers & Wilkins",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-performance audio products, including speakers and headphones."
+    },
+    {
+        "name": "CYP",
+        "country": "United Kingdom",
+        "description": "Manufacturer of AV signal distribution and control solutions."
+    },
+    {
+        "name": "Cambridge Audio",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-quality audio equipment."
+    },
+    {
+        "name": "Cello",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-end audio and video products."
+    },
+    {
+        "name": "Chord",
+        "country": "United Kingdom",
+        "description": "Manufacturer of audio equipment, including amplifiers and DACs."
+    },
+    {
+        "name": "Chord Electronics",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-performance audio equipment, including DACs and amplifiers."
+    },
+    {
+        "name": "Cleer Audio",
+        "country": "United States",
+        "description": "Manufacturer of headphones, earbuds, and other audio products."
+    },
+    {
+        "name": "Cyrus",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-end audio equipment, including amplifiers and streamers."
+    },
+    {
+        "name": "DALI",
+        "country": "Denmark",
+        "description": "Manufacturer of high-performance speakers."
+    },
+    {
+        "name": "Denon",
+        "country": "Japan",
+        "description": "Manufacturer of audio and home theater equipment."
+    },
+    {
+        "name": "Dorel Home",
+        "country": "United States",
+        "description": "Furniture manufacturer specializing in home furnishings."
+    },
+    {
+        "name": "ELAC",
+        "country": "Germany",
+        "description": "Manufacturer of high-end audio equipment, including speakers and amplifiers."
+    },
+    {
+        "name": "Eltax",
+        "country": "Denmark",
+        "description": "Manufacturer of speakers and audio electronics."
+    },
+    {
+        "name": "Emotiva",
+        "country": "United States",
+        "description": "Manufacturer of audio equipment, including amplifiers and processors."
+    },
+    {
+        "name": "Epson",
+        "country": "Japan",
+        "description": "Manufacturer of printers, projectors, and other imaging equipment."
+    },
+    {
+        "name": "FiiO",
+        "country": "China",
+        "description": "Manufacturer of portable audio products, including digital audio players and headphone amplifiers."
+    },
+    {
+        "name": "Focal",
+        "country": "France",
+        "description": "Manufacturer of high-fidelity audio equipment, including speakers and headphones."
+    },
+    {
+        "name": "Frank Olsen",
+        "country": "United Kingdom",
+        "description": "Manufacturer of TV stands and home entertainment furniture."
+    },
+    {
+        "name": "Freesat",
+        "country": "United Kingdom",
+        "description": "Provider of subscription-free satellite television services."
+    },
+    {
+        "name": "Future Automation",
+        "country": "United Kingdom",
+        "description": "Manufacturer of motorized TV mounts and lifts."
+    },
+    {
+        "name": "Fyne",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-quality loudspeakers."
+    },
+    {
+        "name": "Goldring",
+        "country": "United Kingdom",
+        "description": "Manufacturer of audio products, including turntables and cartridges."
+    },
+    {
+        "name": "HEOS",
+        "country": "United States",
+        "description": "Wireless multi-room audio system by Denon."
+    },
+    {
+        "name": "Habitech",
+        "country": "United Kingdom",
+        "description": "Distributor of audiovisual and home automation products."
+    },
+    {
+        "name": "Harman Kardon",
+        "country": "United States",
+        "description": "Manufacturer of audio equipment, including speakers and amplifiers."
+    },
+    {
+        "name": "Hi-Fi Racks",
+        "country": "United Kingdom",
+        "description": "Manufacturer of furniture and accessories for audio and video equipment."
+    },
+    {
+        "name": "Hisense",
+        "country": "China",
+        "description": "Manufacturer of consumer electronics and home appliances."
+    },
+    {
+        "name": "ISO Acoustics",
+        "country": "Canada",
+        "description": "Manufacturer of isolation stands for audio equipment."
+    },
+    {
+        "name": "JBL",
+        "country": "United States",
+        "description": "Manufacturer of audio equipment, including speakers and headphones."
+    },
+    {
+        "name": "Jamo",
+        "country": "Denmark",
+        "description": "Manufacturer of speakers and audio electronics."
+    },
+    {
+        "name": "KEF",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-end audio speakers and headphones."
+    },
+    {
+        "name": "Kinetik",
+        "country": "United Kingdom",
+        "description": "Manufacturer of car audio and electronics accessories."
+    },
+    {
+        "name": "Klipsch",
+        "country": "United States",
+        "description": "Manufacturer of high-performance audio products, including speakers and headphones."
+    },
+    {
+        "name": "Kordz",
+        "country": "Australia",
+        "description": "Manufacturer of audio-video cables and accessories."
+    },
+    {
+        "name": "LG",
+        "country": "South Korea",
+        "description": "Multinational electronics company."
+    },
+    {
+        "name": "LOEWE",
+        "country": "Germany",
+        "description": "Manufacturer of premium consumer electronics."
+    },
+    {
+        "name": "Lindy",
+        "country": "Germany",
+        "description": "Provider of connectivity solutions and computer peripherals."
+    },
+    {
+        "name": "MDA",
+        "country": "United Kingdom",
+        "description": "Manufacturer of TV stands and furniture."
+    },
+    {
+        "name": "MEE Audio",
+        "country": "United States",
+        "description": "Manufacturer of headphones and earphones."
+    },
+    {
+        "name": "Marantz",
+        "country": "United States",
+        "description": "Manufacturer of high-quality audio equipment, including amplifiers and receivers."
+    },
+    {
+        "name": "Mission",
+        "country": "United Kingdom",
+        "description": "Manufacturer of audio speakers."
+    },
+    {
+        "name": "Mitchell & Brown",
+        "country": "United Kingdom",
+        "description": "Manufacturer of TVs and audio equipment."
+    },
+    {
+        "name": "Monitor Audio",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-performance speakers and audio equipment."
+    },
+    {
+        "name": "Mountson",
+        "country": "United Kingdom",
+        "description": "The Mountson Collection represents affordable luxury that sets a new benchmark for premium Sonos accessories."
+    },
+    {
+        "name": "Musical Fidelity",
+        "country": "United Kingdom",
+        "description": "Manufacturer of audio equipment, including amplifiers and DACs."
+    },
+    {
+        "name": "Naim",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-end audio equipment."
+    },
+    {
+        "name": "Naturewall",
+        "country": "United Kingdom",
+        "description": "Manufacturer of natural wood wall coverings."
+    },
+    {
+        "name": "Nedis",
+        "country": "Netherlands",
+        "description": "Provider of consumer electronics and accessories."
+    },
+    {
+        "name": "Norstone",
+        "country": "France",
+        "description": "Manufacturer of audio-video furniture and accessories."
+    },
+    {
+        "name": "Onkyo",
+        "country": "Japan",
+        "description": "Manufacturer of audio and home theater equipment."
+    },
+    {
+        "name": "Optimum",
+        "country": "United Kingdom",
+        "description": "Manufacturer of TV stands and furniture."
+    },
+    {
+        "name": "Optoma",
+        "country": "Taiwan",
+        "description": "Manufacturer of projectors and audio-visual equipment."
+    },
+    {
+        "name": "Ortofon",
+        "country": "Denmark",
+        "description": "Manufacturer of phono cartridges and accessories."
+    },
+    {
+        "name": "Panasonic",
+        "country": "Japan",
+        "description": "Multinational electronics corporation."
+    },
+    {
+        "name": "Peerless-AV",
+        "country": "United States",
+        "description": "Manufacturer of audio-video mounting solutions."
+    },
+    {
+        "name": "Philips",
+        "country": "Netherlands",
+        "description": "Manufacturer of consumer electronics and appliances."
+    },
+    {
+        "name": "Pioneer",
+        "country": "Japan",
+        "description": "Manufacturer of audio and video equipment."
+    },
+    {
+        "name": "Pixel",
+        "country": "United States",
+        "description": "Gear for Musicians and Music Professionals"
+    },
+    {
+        "name": "Polk",
+        "country": "United States",
+        "description": "Manufacturer of audio equipment, including speakers and soundbars."
+    },
+    {
+        "name": "Polk Audio",
+        "country": "United States",
+        "description": "Manufacturer of audio equipment, including speakers and soundbars."
+    },
+    {
+        "name": "Pro-ject",
+        "country": "Austria",
+        "description": "Manufacturer of high-quality turntables and audio equipment."
+    },
+    {
+        "name": "Pure Theatre",
+        "country": "United Kingdom",
+        "description": "Manufacturer of home cinema seating and accessories."
+    },
+    {
+        "name": "Q Acoustics",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-quality speakers and audio equipment."
+    },
+    {
+        "name": "QED",
+        "country": "United Kingdom",
+        "description": "Manufacturer of audio cables and accessories."
+    },
+    {
+        "name": "REL",
+        "country": "United Kingdom",
+        "description": "Manufacturer of subwoofers and audio equipment."
+    },
+    {
+        "name": "Reavon",
+        "country": "France",
+        "description": "Manufacturer of high-end audio-video products."
+    },
+    {
+        "name": "Roberts",
+        "country": "United Kingdom",
+        "description": "Manufacturer of radios and audio equipment."
+    },
+    {
+        "name": "Roksan",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-end audio equipment."
+    },
+    {
+        "name": "Rotel",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-performance audio equipment."
+    },
+    {
+        "name": "Ruark",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-quality audio products."
+    },
+    {
+        "name": "SVS",
+        "country": "United States",
+        "description": "Manufacturer of high-performance subwoofers and speakers."
+    },
+    {
+        "name": "Samsung",
+        "country": "South Korea",
+        "description": "Multinational conglomerate, manufacturer of electronics and home appliances."
+    },
+    {
+        "name": "Sapphire",
+        "country": "United States",
+        "description": "Manufacturer of projection screens and AV mounts."
+    },
+    {
+        "name": "Screenline",
+        "country": "United Kingdom",
+        "description": "Manufacturer of projection screens and AV mounts."
+    },
+    {
+        "name": "Sennheiser",
+        "country": "Germany",
+        "description": "Manufacturer of headphones, microphones, and audio equipment."
+    },
+    {
+        "name": "Sharp",
+        "country": "Japan",
+        "description": "Manufacturer of electronics, including TVs and home appliances."
+    },
+    {
+        "name": "Solidsteel",
+        "country": "Italy",
+        "description": "Manufacturer of audio racks and furniture."
+    },
+    {
+        "name": "Sonos",
+        "country": "United States",
+        "description": "Manufacturer of wireless audio products, including speakers and sound systems."
+    },
+    {
+        "name": "Sony",
+        "country": "Japan",
+        "description": "Multinational conglomerate, manufacturer of electronics, entertainment, and gaming products."
+    },
+    {
+        "name": "SoundMAGIC",
+        "country": "China",
+        "description": "Manufacturer of headphones and audio accessories."
+    },
+    {
+        "name": "Soundstyle",
+        "country": "United States",
+        "description": "Manufacturer of headphones and audio accessories"
+    },
+    {
+        "name": "SpeakerCraft",
+        "country": "United States",
+        "description": "Manufacturer of architectural audio and custom installation products."
+    },
+    {
+        "name": "Starscape",
+        "country": "United Kingdom",
+        "description": "Manufacturer of fiber optic lighting and star ceiling kits."
+    },
+    {
+        "name": "Steljes Audio",
+        "country": "United Kingdom",
+        "description": "Manufacturer of audio products, including speakers and headphones."
+    },
+    {
+        "name": "TTAP",
+        "country": "United Kingdom",
+        "description": "Manufacturer of TV stands and furniture."
+    },
+    {
+        "name": "Tangent",
+        "country": "Denmark",
+        "description": "Manufacturer of audio equipment, including speakers and radios."
+    },
+    {
+        "name": "Teac",
+        "country": "Japan",
+        "description": "Manufacturer of audio and video equipment."
+    },
+    {
+        "name": "Technics",
+        "country": "Japan",
+        "description": "Brand owned by Panasonic, known for high-end audio equipment."
+    },
+    {
+        "name": "Toshiba",
+        "country": "Japan",
+        "description": "Multinational conglomerate, manufacturer of electronics and home appliances."
+    },
+    {
+        "name": "VAVA",
+        "country": "United States",
+        "description": "Manufacturer of consumer electronics, including projectors and speakers."
+    },
+    {
+        "name": "Valencia",
+        "country": "United States",
+        "description": "Focused on offering budget-friendly price points, Valencia specializes in high-end sound and entertainment system design and installation."
+    },
+    {
+        "name": "Vividstorm",
+        "country": "China",
+        "description": "Manufacturer of projection screens and accessories."
+    },
+    {
+        "name": "Vogels",
+        "country": "Netherlands",
+        "description": "Manufacturer of TV mounts and brackets."
+    },
+    {
+        "name": "We Are Rewind",
+        "country": "France",
+        "description": "Manufacturer of retro-style cassette players."
+    },
+    {
+        "name": "Wharfedale",
+        "country": "United Kingdom",
+        "description": "Manufacturer of high-fidelity speakers and audio equipment."
+    },
+    {
+        "name": "Wiim",
+        "country": "China",
+        "description": "WiiM provides wireless sound system that support WiFi with Wired and wireless network connection & rich audio interfaces."
+    },
+    {
+        "name": "Yamaha",
+        "country": "Japan",
+        "description": "Manufacturer of musical instruments, audio equipment, and electronics."
+    },
+    {
+        "name": "Zuma",
+        "country": "United States",
+        "description": "Manufacturer of lighting equipment"
+    },
+    {
+        "name": "iFi",
+        "country": "United Kingdom",
+        "description": "Manufacturer of audio equipment, including DACs and headphone amplifiers."
+    }
+]
