@@ -28,7 +28,7 @@ class BrandRepository
         ?string $name,
         ?string $country,
         ?string $description,
-    )
+    ): ?Brand
     {
         $brand = $this->model->find($id);
 
@@ -57,7 +57,7 @@ class BrandRepository
         string $name,
         string $country,
         string $description,
-    )
+    ): Brand
     {
         $brand = new Brand();
 
@@ -70,7 +70,14 @@ class BrandRepository
         return $brand;
     }
 
-    public function createMany(array $brandsData)
+    /**
+     * Create multiple brands.
+     *
+     * @param array $brandsData An array of brand data arrays, each containing 'name', 'country', and 'description' keys.
+     * @return string|Brand[] A string message if the creation fails, or an array of Brand objects if successful (ResponseBuilder class
+     * will return either HTTP 200 if it's successful, or 400 if return type of this class is string
+     */
+    public function createMany(array $brandsData): array|string
     {
         $brands = [];
 
