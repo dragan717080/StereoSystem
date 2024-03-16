@@ -4,6 +4,7 @@ namespace App\Repositories;
 
 use App\Models\GeneralCategory;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
+use Illuminate\Database\Eloquent\Collection;
 
 class GeneralCategoryRepository
 {
@@ -17,7 +18,7 @@ class GeneralCategoryRepository
         $this->model = new GeneralCategory();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return GeneralCategory::all();
     }
@@ -27,7 +28,7 @@ class GeneralCategoryRepository
         ?string $name,
         ?string $description,
         ?string $imageSrc,
-    )
+    ): ?GeneralCategory
     {
         $generalCategory = $this->model->find($id);
 
@@ -56,7 +57,7 @@ class GeneralCategoryRepository
         string $name,
         string $description,
         string $imageSrc,
-    )
+    ): GeneralCategory
     {
         $generalCategory = new GeneralCategory();
 

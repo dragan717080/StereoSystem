@@ -4,6 +4,7 @@ namespace App\Repositories;
 
 use App\Models\Customer;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
+use Illuminate\Database\Eloquent\Collection;
 
 class CustomerRepository
 {
@@ -17,7 +18,7 @@ class CustomerRepository
         $this->model = new Customer();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return Customer::all();
     }
@@ -28,7 +29,7 @@ class CustomerRepository
         ?string $firebaseId,
         ?string $phone,
         ?string $email,
-    )
+    ): ?Customer
     {
         $customer = $this->model->find($id);
 
@@ -62,7 +63,7 @@ class CustomerRepository
         string $firebaseId,
         string $phone,
         string $email,
-    )
+    ): Customer
     {
         $customer = new Customer();
 

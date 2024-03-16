@@ -5,6 +5,7 @@ namespace App\Repositories;
 use App\Models\Shipping;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
 use App\Repositories\OrderRepository;
+use Illuminate\Database\Eloquent\Collection;
 
 class ShippingRepository
 {
@@ -18,7 +19,7 @@ class ShippingRepository
         $this->model = new Shipping();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return Shipping::all();
     }
@@ -30,7 +31,7 @@ class ShippingRepository
         ?string $country,
         ?string $postalCode,
         ?string $shippedDate,
-    )
+    ): ?Shipping
     {
         $shipping = $this->model->find($id);
 
@@ -70,7 +71,7 @@ class ShippingRepository
         string $country,
         string $postalCode,
         string $shippedDate,
-    )
+    ): Shipping
     {
         $shipping = new Shipping();
 

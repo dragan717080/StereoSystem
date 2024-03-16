@@ -4,6 +4,7 @@ namespace App\Repositories;
 
 use App\Models\Product;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
+use Illuminate\Database\Eloquent\Collection;
 
 class ProductRepository
 {
@@ -17,7 +18,7 @@ class ProductRepository
         $this->model = new Product();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return Product::all();
     }
@@ -31,7 +32,7 @@ class ProductRepository
         ?float $priceGroup,
         ?int $stockQuantity,
         ?int $vote,
-    )
+    ): ?Product
     {
         $product = $this->model->find($id);
 
@@ -82,7 +83,7 @@ class ProductRepository
         float $price,
         float $priceGroup,
         int $stockQuantity,
-    )
+    ): Product
     {
         $product = new Product();
 

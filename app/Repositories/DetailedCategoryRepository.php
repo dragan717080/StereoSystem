@@ -5,6 +5,7 @@ namespace App\Repositories;
 use App\Models\DetailedCategory;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
 use App\Repositories\SpecificCategoryRepository;
+use Illuminate\Database\Eloquent\Collection;
 
 class DetailedCategoryRepository
 {
@@ -18,7 +19,7 @@ class DetailedCategoryRepository
         $this->model = new DetailedCategory();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return DetailedCategory::all();
     }
@@ -27,7 +28,7 @@ class DetailedCategoryRepository
         string $id,
         ?string $name,
         ?string $specificCategoryId,
-    )
+    ): ?DetailedCategory
     {
         $detailedCategory = $this->model->find($id);
 
@@ -57,7 +58,7 @@ class DetailedCategoryRepository
     public function create(
         string $name,
         string $specificCategoryId,
-    )
+    ): DetailedCategory
     {
         $detailedCategory = new DetailedCategory();
 

@@ -5,6 +5,7 @@ namespace App\Repositories;
 use App\Models\SpecificCategory;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
 use App\Repositories\GeneralCategoryRepository;
+use Illuminate\Database\Eloquent\Collection;
 
 class SpecificCategoryRepository
 {
@@ -18,7 +19,7 @@ class SpecificCategoryRepository
         $this->model = new SpecificCategory();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return SpecificCategory::all();
     }
@@ -30,7 +31,7 @@ class SpecificCategoryRepository
         ?string $imageSrc,
         ?string $bannerImageSrc,
         ?string $generalCategoryId,
-    )
+    ): ?SpecificCategory
     {
         $specificCategory = $this->model->find($id);
 
@@ -75,7 +76,7 @@ class SpecificCategoryRepository
         string $imageSrc,
         string $bannerImageSrc,
         string $generalCategoryId,
-    )
+    ): SpecificCategory
     {
         $specificCategory = new SpecificCategory();
 

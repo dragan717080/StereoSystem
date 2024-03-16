@@ -4,6 +4,7 @@ namespace App\Repositories;
 
 use App\Models\Brand;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
+use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\QueryException;
 
 class BrandRepository
@@ -18,7 +19,7 @@ class BrandRepository
         $this->model = new Brand();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return Brand::all();
     }
@@ -95,6 +96,7 @@ class BrandRepository
                     // Always store in var if want to use end()
                     $parts = explode(" ", $e->getMessage());
                     $keyName = str_replace('"', '', end($parts));
+
                     return "Failed at index $i: Missing key " . $keyName;
                 }
 
@@ -105,6 +107,7 @@ class BrandRepository
                     if (preg_match('/Key \((.*?)\)/', $e->getMessage(), $matches)) {
                         $failedForKey = $matches[1];
                         $failedForValue = $data[$failedForKey];
+
                         return "Failed at index $i: Unique constraint failed for key " . $failedForKey . " and value $failedForValue";
                     }
                 }

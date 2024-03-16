@@ -5,6 +5,7 @@ namespace App\Repositories;
 use App\Models\Order;
 use App\Repositories\Traits\{ GetByIdTrait, DeleteTrait };
 use App\Repositories\CustomerRepository;
+use Illuminate\Database\Eloquent\Collection;
 
 class OrderRepository
 {
@@ -18,7 +19,7 @@ class OrderRepository
         $this->model = new Order();
     }
 
-    public function getAll()
+    public function getAll(): Collection
     {
         return Order::all();
     }
@@ -27,7 +28,7 @@ class OrderRepository
         string $id,
         ?string $customerId,
         ?string $status,
-    )
+    ): ?Order
     {
         $order = $this->model->find($id);
 
@@ -51,7 +52,7 @@ class OrderRepository
     public function create(
         string $customerId,
         string $status,
-    )
+    ): Order
     {
         $order = new Order();
 
